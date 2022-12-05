@@ -23,7 +23,8 @@ TaskQuest also includes a variety of quality-of-life features for users, includi
 * [4. Testing](https://git.uwaterloo.ca/s4adatia/cs-346-project/-/wikis/Testing)
 * [5. User documentation](https://git.uwaterloo.ca/s4adatia/cs-346-project/-/wikis/User-Documentation)
 * [6. Acknowledgements](https://git.uwaterloo.ca/s4adatia/cs-346-project/-/wikis/Acknowledgements)
-* [7. Project Reflection](https://git.uwaterloo.ca/s4adatia/cs-346-project/-/wikis/Project-Reflection)
+* [7. License](https://git.uwaterloo.ca/s4adatia/cs-346-project/-/wikis/License)
+* [8. Project Reflection](https://git.uwaterloo.ca/s4adatia/cs-346-project/-/wikis/Project-Reflection)
 
 ## Releases
 * [Version 1.0](https://git.uwaterloo.ca/s4adatia/cs-346-project/-/wikis/Sprint-1-Release) - Sprint 1 Release
